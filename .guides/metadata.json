@@ -1,0 +1,128 @@
+{
+ "sections": [
+  {
+   "id": "6e3285ac-981e-1bcd-4fb9-d9cd2809c8b8",
+   "title": "Sound and compression",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sound-and-compression-6e32.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "45379299-9d65-b2de-57ab-8e9360d7c37e",
+   "title": "Sound",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sound-4537.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "520c4a5e-70fe-3a58-3e8f-e6ea17c9ee72",
+   "title": "Sampling frequency",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sampling-frequency-520c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "da1ff051-a5cf-2c5f-7c9d-c049bd2f7334",
+   "title": "Sample size",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sample-size-da1f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d4034075-1ef7-63d0-8a9d-0a9edc00a387",
+   "title": "File size",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/File-size-d403.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9a7dbae4-2376-d23d-0d86-05710227bf9b",
+   "title": "Bit rate",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Bit-rate-9a7d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5d6195a3-4759-3be1-e566-e7b6d4ebbab7",
+   "title": "Compression",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Compression-5d61.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "79e1e1be-f318-0b6c-caf8-e35b4cedbea3",
+   "title": "Lossy compression",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lossy-compression-79e1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c8c63ad5-cab6-7659-c9d3-7eb8e2526eba",
+   "title": "Lossless compression",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lossless-compression-c8c6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "305a1f44-d617-bca5-f839-061efe65f037",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-305a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8c50cf37-7ec0-5f5f-9cdd-b33554a901fc",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-8c50.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

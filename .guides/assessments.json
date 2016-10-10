@@ -1,0 +1,142 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-12539563",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Sound is caused by <<<vibrations>>> which <<<compress>>> and then pull apart the air molecules so causing changes in air pressure.\nThey travel out in <<<waves>>> and for digital recordings <<<samples>>> are taken at fixed intervals.",
+   "tokens": {
+    "blank": [
+     "vibrations",
+     "compress",
+     "waves",
+     "samples"
+    ],
+    "text": [
+     "Sound is caused by ",
+     0,
+     " which ",
+     0,
+     " and then pull apart the air molecules so causing changes in air pressure.\nThey travel out in ",
+     0,
+     " and for digital recordings ",
+     0,
+     " are taken at fixed intervals."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1756579730",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**The following table contains some definitions of the digital recording of sound.\nSelect the correct terms that are being defined.**",
+   "points": "1",
+   "showValues": true,
+   "text": "|**Definition**|**Term being defined**|\n|:--|:--|\n|The amount of data processed every second.|<<<bit rate>>>|\n|This is the number of samples taken each second. |<<<sampling frequency>>>|\n|The number of bits used to encode each sample. |<<<sample size>>> |",
+   "tokens": {
+    "blank": [
+     "bit rate",
+     "sampling frequency",
+     "sample size"
+    ],
+    "text": [
+     "|**Definition**|**Term being defined**|\n|:--|:--|\n|The amount of data processed every second.|",
+     0,
+     "|\n|This is the number of samples taken each second. |",
+     0,
+     "|\n|The number of bits used to encode each sample. |",
+     0,
+     " |"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3628123669",
+  "source": {
+   "name": "Question 3",
+   "showName": false,
+   "instructions": "**Calculate the size in megabytes to the nearest lowest integer of the following sound file.**",
+   "points": "1",
+   "showValues": false,
+   "text": "A stereo recording of two and a half minutes with a sampling frequency of 44.1 KHz and a sample size of 24 bits = <<<40>>> megabytes",
+   "tokens": {
+    "blank": [
+     "40"
+    ],
+    "text": [
+     "A stereo recording of two and a half minutes with a sampling frequency of 44.1 KHz and a sample size of 24 bits = ",
+     0,
+     " megabytes"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-238764452",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "File compression is important as the files will then take up less <<<storage>>> space and less <<<bandwidth>>> when they are uploaded and <<<downloaded>>>.",
+   "tokens": {
+    "blank": [
+     "storage",
+     "bandwidth",
+     "downloaded"
+    ],
+    "text": [
+     "File compression is important as the files will then take up less ",
+     0,
+     " space and less ",
+     0,
+     " when they are uploaded and ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3086313311",
+  "source": {
+   "name": "Question5",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The <<<lossless>>> compression algorithm allows the <<<original>>> file to be reconstituted but with <<<lossy>>> compression some of the <<<data>>> is discarded.\n",
+   "tokens": {
+    "blank": [
+     "lossless",
+     "original",
+     "lossy",
+     "data"
+    ],
+    "text": [
+     "The ",
+     0,
+     " compression algorithm allows the ",
+     0,
+     " file to be reconstituted but with ",
+     0,
+     " compression some of the ",
+     0,
+     " is discarded.\n"
+    ]
+   }
+  }
+ }
+]
