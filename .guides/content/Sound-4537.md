@@ -10,7 +10,7 @@ The graphs show that there are continuous changes in the air pressure and record
 
 Analogue recording therefore capture the complete sound waves.
 
-Computer, however, are digital and they cannot represent continuous, minute changes in voltage – their transistor are either on or off, with noting in between. They are digital and not analogue.
+Computers, however, are digital and they cannot represent continuous, minute changes in voltage – their transistors are either on or off, with nothing in between. They are digital and not analogue.
 
 Therefore snapshots of the sound wave must be taken and then fitted together. 
 
